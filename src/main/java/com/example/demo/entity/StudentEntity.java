@@ -24,8 +24,8 @@ public class StudentEntity {
     }
 
 
-  public StudentEntity{
-    
+  public StudentEntity(){
+
   }
 
 
