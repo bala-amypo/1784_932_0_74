@@ -23,7 +23,11 @@ public class StudentEntity {
           this.cgpa=cgpa;
     }
 
+
+  public StudentEntity{
     
+  }
+
 
      public void setName(String name){
         this.name=name;
